@@ -1,0 +1,62 @@
+h1{
+    background-color:lightcoral;/*:darksalmon;*/
+    color: beige;
+    font-style: oblique;
+}
+
+h4{
+    background-color:lightpink;
+    color:purple;
+}
+a{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    color:slategrey;
+    text-align: justify;
+}
+
+
+span{
+    color: lightcoral;
+}
+
+ol{
+    color:orangered;
+}
+
+ul{
+    color: mediumvioletred;
+}
+
+.aenform{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color:deeppink;
+    font-weight: bold;
+
+}
+.enviar{
+    color:mediumseagreen;
+    font-weight: bold;
+}
+
+.borrar{
+    color:crimson;
+    font-weight: bold;
+}
+
+textarea{
+    background-color:lavender
+    ;
+}
+input{
+    font-family:'Times New Roman', Times, serif ;
+    font-style:italic;
+    font-size: 15px;
+    color:dimgrey;
+}
